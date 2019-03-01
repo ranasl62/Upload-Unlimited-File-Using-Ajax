@@ -3,7 +3,7 @@ Upload unlimited file when you server allows only limited file at a time.
 Here you can see two file upload option 
 	1. uploadExcel()
 	2. uploadWord()
-Actually, I use this code in my project which is I done before 6 months ago.
+Actually, I use this code in my project which is I done before 6 months ago.It was a Laravel project.
 
 I send two types of file and two different routes that's why I use two different methods.
 You can use as you want. The way I did here is simple, take all file to the user and send it one by one.
